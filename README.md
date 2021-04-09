@@ -1,6 +1,6 @@
 # MBTI Wordcloud
 
-Create wordcloud using posts from MBTI galleries in DC Inside.
+Create wordcloud using posts from MBTI (Myers–Briggs Type Indicator) galleries in DC Inside.
 
 Example: Wordcloud ENFJ gallery
 

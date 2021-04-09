@@ -4,6 +4,8 @@ Create wordcloud using posts from MBTI (Myers–Briggs Type Indicator) galleries
 
 Example: Wordcloud ENFJ gallery
 
+https://gall.dcinside.com/mgallery/board/lists/?id=enfj
+
 ![](result.png)
 
 ## Dependency
